@@ -1,0 +1,15 @@
+{
+  "name": "sorteo-concurso-club-2026",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ruletas para sortear el orden de participación del concurso del club (Toastmasters Pachuca)",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview --open"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
