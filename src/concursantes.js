@@ -19,7 +19,7 @@ export const CATEGORIAS = [
     id: 'oratoria',
     nombre: 'Oratoria en español',
     nota: 'Discurso de 5 a 7 minutos.',
-    concursantes: ['Samuel Pérez', 'Gabriela Meneses', 'Edgar Uribe', 'Wendolyn García'],
+    concursantes: ['Gabriela Meneses', 'Edgar Uribe', 'Wendolyn García', 'Jannet Tolentino'],
   },
   {
     id: 'international',
@@ -40,4 +40,5 @@ export const FOTOS = {
   'Edgar Uribe': 'edgar-uribe',
   'Wendolyn García': 'wendolyn-garcia',
   'Aarón Hernández': 'aaron-hernandez',
+  'Jannet Tolentino': 'jannet-tolentino',
 }
